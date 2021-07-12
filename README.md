@@ -1,7 +1,7 @@
-## Contains the alfredsnippets which can be imported to Alfred and the Snippets functionality of the Alfred can be used to have the shortcuts.
+## Alfredsnippets to create k8s shortcuts(For MAC users only)
 
 # Prerequisites:
- Alfred 4 must be installed with Powerpack enabled. Snippet functionality only gets enabled for powerpack. Free Version doesn't support that
+ Alfred 4 must be installed with Powerpack enabled. Snippet functionality only gets enabled with powerpack. Free Version doesn't support that
 
 # How to Import:
 
@@ -53,3 +53,5 @@ The shortcuts of the commands are written to with following standard
 </pre>
 
 e.g to run "kubectl get pod" the shortcut is "kgp"
+
+## Type commands on any terminal or editor for auto-expand 
