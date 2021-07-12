@@ -7,4 +7,4 @@ Contains the alfredsnippets which can be imported to Alfred and the Snippets fun
 
 Download the file on you mac and double click it. The below popup will be seen. Click on Import
 
-![alt text](https://github.com/[satbachansingh]/[K8sAlfredSnippets]/blob/[master]/images/Import.png?raw=true)
+![alt text](https://github.com/satbachansingh/K8sAlfredSnippets/blob/main/images/Import.png)
