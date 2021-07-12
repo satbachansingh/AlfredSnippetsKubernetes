@@ -10,6 +10,7 @@ Download the file on you mac and double click it. The below popup will be seen. 
 ![alt text](https://github.com/satbachansingh/K8sAlfredSnippets/blob/main/images/Import.png)
 
 After successful import there will be a new collection available with name "kubectl commands"
+![alt text](https://github.com/satbachansingh/K8sAlfredSnippets/blob/main/images/afterImport.png)
 Please enable all the commands for the usage. Also make sure to enable "Automatically expand snippets by keyword" to enable the feature
 
 
