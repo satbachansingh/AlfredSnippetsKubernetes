@@ -1,7 +1,7 @@
 ## Alfredsnippets to create k8s shortcuts(For MAC users only)
 
 # Purpose:
-The purpose of this snippet to enable shortcuts of kubectl command. These shortcuts will work on any terminal or editor. There is no need to define alias for every session. By importing this snippet these shortcuts will be enabled. Instead of typing long commands sortcuts will auto-expand to the full command
+The purpose of this snippet to enable shortcuts of kubectl command. These shortcuts will work on any terminal or editor. There is no need to define alias for every session. By importing this snippet these shortcuts will be enabled. Instead of typing long commands shortcuts will auto-expand to the full command
 
 # Prerequisites:
  Alfred 4 must be installed with Powerpack enabled. Snippet functionality only gets enabled with powerpack. Free Version doesn't support that
@@ -56,6 +56,9 @@ The shortcuts of the commands are written with following standard
 
 </pre>
 
-e.g to run "kubectl get pod" the shortcut is "kgp"
+e.g to run 
+"kubectl get pod"             -  "kgp"
+"kubectl delete service"      -  "kls"
+"kubectl describe configmap"  -  "kdcm"
 
 ## Type commands on any terminal or editor for auto-expand 
