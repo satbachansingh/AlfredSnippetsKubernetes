@@ -1,5 +1,8 @@
 ## Alfredsnippets to create k8s shortcuts(For MAC users only)
 
+# Purpose:
+The purpose of this snippet to enable shortcuts of kubectl command. These shortcuts will work on any terminal or editor. There is no need to define alias for every session. By importing this snippet these shortcuts will be enabled. Instead of typing long commands sortcuts will auto-expand to the full command
+
 # Prerequisites:
  Alfred 4 must be installed with Powerpack enabled. Snippet functionality only gets enabled with powerpack. Free Version doesn't support that
 
@@ -16,7 +19,7 @@ Please enable all the commands for the usage. Also make sure to enable "Automati
 
 # Command Details 
 
-The shortcuts of the commands are written to with following standard 
+The shortcuts of the commands are written with following standard 
 
 <pre>
 |-------------------|---------|
